@@ -1,0 +1,17 @@
+QTableWidget {
+    color: white;
+    background-color: rgba(0, 0, 0, 100);
+    font: bold;
+    selection-background-color: rgba(0, 0, 0, 100);
+}
+
+QHeaderView::section {
+    border: none;
+    color: white;
+    font: bold;
+    background: rgba(0, 0, 0, 200);
+}
+
+QTableView::item:focus {
+    background-color: rgba(0, 0, 0, 100);
+}

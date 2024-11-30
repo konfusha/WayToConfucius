@@ -1,0 +1,5 @@
+QLineEdit {
+    background-color: rgba(0, 0, 0, 100);
+    color: white;
+    border-radius: 10px;
+}
